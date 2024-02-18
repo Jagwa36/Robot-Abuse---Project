@@ -1,0 +1,4 @@
+To Play:
+- WASD to rotate
+- Mouse to attach/dettach
+- R to Reset
